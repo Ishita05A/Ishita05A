@@ -53,11 +53,19 @@
 
 ## 🐍 Contribution Snake
 
+---
+
+## ⚡ My GitHub Activity
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ishita05A/Ishita05A/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishita05A&bg_color=000000&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 
 </div>
+
+---
+
+
 
 ---
 
