@@ -51,9 +51,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
----
 
 ## ⚡ My GitHub Activity
 
